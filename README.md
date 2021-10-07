@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&height=150&section=header&text=Lee%20bum%20soo&fontSize=70&animation=fadeIn)
 
-### Hi there 👋
-#### 🇰🇷 my name is Lee bum soo
+### Hi there 👋😁
+###  my name is Lee bum soo
 #### 💻 i'm  a Web Developer 💻
 
 ### How to reach me? 🤔
 
-- 📮  **rlaeksxp3457's email...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rlaeksxp3457@gmail.com)](mailto:rlaeksxp3457@gmail.com)
+- 📮  **rlaeksxp3457's email...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rlaeksxp3457@gmail.com)](mailto:rlaeksxp3457@gmail.com)👈👈
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -18,18 +18,27 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp  
-    
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
   <br>
+</p>
+
+<h3 align="center">🛠 Use Tool's 🛠</h3>
   
-  ### My GitHub stats
+  <p align="center">
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Visual Studio Code-394EFF?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>&nbsp 
+
+  <br>
+</p>
+  
+
+  ### My GitHub stats 😱
   [![rlaeksxp3457's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaeksxp3457&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
-  ### Top Langs
+  ### Top Langs 🧐
   [![most use Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaeksxp3457&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-  ### project's
+  ### Project's 😏
   [![fullstack project](https://github-readme-stats.vercel.app/api/pin/?username=rlaeksxp3457&repo=Bicycle)](https://github.com/rlaeksxp3457/Bicycle)
   [![frontend project](https://github-readme-stats.vercel.app/api/pin/?username=rlaeksxp3457&repo=market)](https://github.com/rlaeksxp3457/market)
-
-</p>
