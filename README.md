@@ -42,3 +42,4 @@
   ### Project's 😏
   [![fullstack project](https://github-readme-stats.vercel.app/api/pin/?username=rlaeksxp3457&repo=Bicycle)](https://github.com/rlaeksxp3457/Bicycle)
   [![frontend project](https://github-readme-stats.vercel.app/api/pin/?username=rlaeksxp3457&repo=market)](https://github.com/rlaeksxp3457/market)
+  [![Springboot project](https://github-readme-stats.vercel.app/api/pin/?username=rlaeksxp3457&repo=klavaro)](https://github.com/rlaeksxp3457/klavaro)
